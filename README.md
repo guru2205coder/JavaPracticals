@@ -1,1 +1,1 @@
-# PracticalIJ
+# JAVA PEACRICALS
